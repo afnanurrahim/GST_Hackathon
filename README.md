@@ -34,3 +34,6 @@ print(f"F1 Score: {f1:.4f}")
 print(f"AUC-ROC: {auc_roc:.4f}")
 ```
 
+![Confusion matrix](confusion_matrix.png)
+
+![ROC curve](roc_curve.png)
