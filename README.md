@@ -32,6 +32,13 @@ print(f"Precision: {precision:.4f}")
 print(f"Recall: {recall:.4f}")
 print(f"F1 Score: {f1:.4f}")
 print(f"AUC-ROC: {auc_roc:.4f}")
+
+# Accuracy: 97.2863
+# Precision: 0.7835
+# Recall: 0.9841
+# F1 Score: 0.8724
+# AUC-ROC: 0.9930
+
 ```
 
 ![Confusion matrix](confusion_matrix.png)
